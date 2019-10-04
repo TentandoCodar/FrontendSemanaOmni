@@ -8,6 +8,7 @@ body {
     background: #000 url('./assets/background.jpg');
     background-size: cover;
     -webkit-font-smoothing: antialiased !important;
+    
 }
 
 body, input, button {
